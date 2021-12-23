@@ -74,13 +74,34 @@ Calculo Sin la fuente de 12V V2=0
 
 Calculo de voltajes:
 
+![image](https://user-images.githubusercontent.com/93835463/147197587-2d53f0f9-27b7-4422-ac55-6dcc2b3974bb.png)
 
+Tablas:
+
+![image](https://user-images.githubusercontent.com/93835463/147197957-16410958-e859-45d5-bb6c-8cad788888b2.png)
+
+Calculo de error:
+
+![image](https://user-images.githubusercontent.com/93835463/147199170-ffd6ff0b-aeff-46b3-bae8-36c9b7549a8a.png)
 
 
 VIDEOS:
+Medicion voltaje:
+
+https://www.youtube.com/watch?v=DPm1ipm1AcI
+
+Calculo con el metodo de superposicion: 
+
+https://www.youtube.com/watch?v=NrCkJrFPvCQ&t=240s
+
+Medicion de corriente:
+
+https://www.youtube.com/watch?v=vGVxymbxjhM
 
 CONCLUSIONES:
 
 Mediante el uso del Teorema de Superposicion podemos calcular valores tales como el Voltaje y la Corriente de una manera mas sencilla cuando los circuitos son lineales, dando asi que la tension esta dada por la suma de las contribuciones de cada fuente independiente
 
 BIBLIOGRAFÍA:
+
+Teorema de la superposicion. (2020, 2 junio). TINA Design Suite. Recuperado 23 de diciembre de 2021, de https://www.tina.com/es/superposition-theorem/
