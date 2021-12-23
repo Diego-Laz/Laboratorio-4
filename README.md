@@ -72,8 +72,15 @@ Calculo Sin la fuente de 12V V2=0
 
 ![image](https://user-images.githubusercontent.com/93835463/147192332-1b045f23-662e-4f15-968d-946a8b9b3c8d.png)
 
+Calculo de voltajes:
+
+
+
+
 VIDEOS:
 
 CONCLUSIONES:
+
+Mediante el uso del Teorema de Superposicion podemos calcular valores tales como el Voltaje y la Corriente de una manera mas sencilla cuando los circuitos son lineales, dando asi que la tension esta dada por la suma de las contribuciones de cada fuente independiente
 
 BIBLIOGRAFÍA:
