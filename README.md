@@ -17,7 +17,9 @@ Comprobar experimentalmente el Teorema de Superposición.
 
 MARCO TEÓRICO:
 
-EXPLICACIÓN DEL PROCEDIMIENTO:{
+![image](https://user-images.githubusercontent.com/93835463/147194362-1dfb789a-f946-44f7-b872-7be252438867.png)
+
+EXPLICACIÓN DEL PROCEDIMIENTO:
 
 Para empezar a realizar el circuito en tinkercad debemos extraer de la barra de componentes lo que necesitemos que en este caso es:
 
