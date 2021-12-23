@@ -74,4 +74,8 @@ VIDEOS:
 
 CONCLUSIONES:
 
+Mediante el uso del Teorema de Superposicion podemos calcular valores tales como el Voltaje y la Corriente de una manera mas sencilla cuando los circuitos son lineales, dando asi que la tension esta dada por la suma de las contribuciones de cada fuente independiente
+
+
+
 BIBLIOGRAFÍA:
